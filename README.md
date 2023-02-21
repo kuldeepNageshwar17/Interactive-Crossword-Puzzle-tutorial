@@ -26,11 +26,19 @@ Here's how you could approach the task:
 
 
 
-:speech_balloon:
+
 This project will give you the opportunity to work with external APIs, React state management, and user input handling. Additionally, you'll get experience with rendering dynamic content and game logic.
 
 
 :+1::+1::+1::+1::+1::+1::+1:
+
+:speech_balloon: 
+try to enhance Ui
+try to create UI responsive UI
+try to create some extra features 
+try to host a competition
+put it into you portfolio.
+
 
 
 
