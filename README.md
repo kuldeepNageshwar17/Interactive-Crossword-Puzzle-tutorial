@@ -3,7 +3,7 @@
 
 The Interactive Crossword Puzzle Game is a web-based game that challenges players to complete a randomly generated crossword puzzle within a set amount of time. The game is built using React and relies on an external API to provide the crossword puzzle data.
 
-#### List of Task #### 
+## List of Task ##
 
 
 Here's how you could approach the task:
@@ -19,7 +19,7 @@ Here's how you could approach the task:
  9. Add a timer to the game that limits the user's time to complete the puzzle.
  10. When the user successfully completes the puzzle, display a message congratulating them and offering the option to play again.
 
-#### React Topics you can learn from this project #### 
+## React Topics you can learn from this project ##
 
 
 
