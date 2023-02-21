@@ -20,6 +20,7 @@ Here's how you could approach the task:
  10. When the user successfully completes the puzzle, display a message congratulating them and offering the option to play again.
 
 ## React Topics you can learn from this project ##
+:eyes:
 
 
 
